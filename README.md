@@ -1,4 +1,4 @@
-# Guess the Number - Java Project
+# BrainyNumberGuess - Java Project
 
 A simple Java console application where the user tries to guess a randomly generated number within a specified range. The program provides hints whether the guess is too high or too low until the user guesses correctly.
 
